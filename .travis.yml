@@ -1,7 +1,6 @@
-before_script: cd MissionControl
 podfile: MissionControl/Podfile
 language: objective-c  #1
 osx_image: xcode6.4 #2
-xcode_project: MissionControl.xcworkspace #3
+xcode_project: MissionControl/MissionControl.xcworkspace #3
 xcode_scheme: MissionControl #4
 xcode_sdk: iphonesimulator #5
