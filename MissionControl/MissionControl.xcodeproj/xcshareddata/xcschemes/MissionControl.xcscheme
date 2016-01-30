@@ -14,6 +14,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "BBE9530699EC0BCD2197FC530E255D91"
+               BuildableName = "Pods_MissionControl.framework"
+               BlueprintName = "Pods-MissionControl"
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "C1CB0F601BC08087000FA9A1"
                BuildableName = "MissionControl.app"
                BlueprintName = "MissionControl"
