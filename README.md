@@ -4,7 +4,7 @@ this fork is just for testing new stuff for the main project!
 
 
 # MissionControl iOS App
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://github.com/danielhonies/MissionControl-iOS/blob/master/License)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://github.com/danielhonies/MissionControl-iOS/blob/master/License)[![Build Status](https://travis-ci.org/danielhonies/MissionControl-iOS.svg?branch=master)](https://travis-ci.org/danielhonies/MissionControl-iOS)
 ##Installation
 Please refer to the Develop section below as there is no official release of the MissionControl iOS App in the AppStore yet.
 
