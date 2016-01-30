@@ -1,3 +1,8 @@
+#use the official client at [team-items](https://github.com/team-items/MissionControl-iOS/)
+this fork is just for testing new stuff for the main project!
+
+
+
 # MissionControl iOS App
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://github.com/danielhonies/MissionControl-iOS/blob/master/License)
 ##Installation
